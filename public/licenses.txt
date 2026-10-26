@@ -1,0 +1,25 @@
+CAMPUSAI OPEN-SOURCE LICENSES & ATTRIBUTIONS
+
+1. Plus Jakarta Sans
+Copyright 2020 The Plus Jakarta Sans Project Authors (https://github.com/tokotype/Plus-Jakarta-Sans)
+Licensed under the SIL Open Font License, Version 1.1 (OFL-1.1).
+http://scripts.sil.org/OFL
+
+2. JetBrains Mono
+Copyright 2020 JetBrains s.r.o. (https://github.com/JetBrains/JetBrainsMono)
+Licensed under the SIL Open Font License, Version 1.1 (OFL-1.1).
+http://scripts.sil.org/OFL
+
+3. Lucide Icons
+Copyright (c) for portions of Lucide are held by Cole Bemis 2013-2022 as part of Feather (MIT).
+All other portions Copyright (c) Lucide Contributors 2022.
+Licensed under the ISC License.
+https://github.com/lucide-icons/lucide/blob/main/LICENSE
+
+4. React & React DOM
+Copyright (c) Meta Platforms, Inc. and affiliates.
+Licensed under the MIT License.
+
+5. Vite
+Copyright (c) 2019-present Evan You & Vite Contributors
+Licensed under the MIT License.
